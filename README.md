@@ -28,12 +28,12 @@ Conclusions will include basic summary statics on the variables, inferences draw
 
 ## Files contained in this Repository include:
 
-1. README file
+1. README.md
 2. [Youtube Presentation]
-2. [Case Study 1_Budweiser Case Study RMD file]
-3. [Case Study 1_Budweiser Case Study knit file]
-4. [Case Study 1_Budweiser Case Study Power Point Deck]
-5. [Data Files]
-  a. [beers.csv]
-  b. [breweries.csv]
-  c. [state-geocodes-v2017.csv]
+2. [Case Study 1 Budweiser.Rmd](Ehly_Goodwin_Case_Study_1_Final_DS6306_Tu630p.rmd)
+3. [Case Study 1 Budweiser Knit.html](Ehly_Goodwin_Case_Study_1_knit_DS6306_Tu630p.html)
+4. [Case Study 1 Budweiser Deck.pptx](Ehly_Goodwin_Case_Study_1_Final_DS6306_tu630p.pptx)
+5. [Data Files](https://github.com/justinehly/Justin_Ehly_DS6306_Case_Study_1_Budweiser/tree/main/Data%20Files)
+    1. [beers.csv](Data Files/beers.csv)
+    2. [breweries.csv](Data Files/breweries.csv)
+    3. [state-geocodes-v2017.csv](Data Files/state-geocodes-v2017.csv)
