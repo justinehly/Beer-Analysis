@@ -1,7 +1,6 @@
 Budweiser: A Case Study of Beer in the USA
 ---
 
-
 ## By Justin Ehly and Ben Goodwin
 *This is Justin Ehly's submission*
 *DS6306, Tu630p, Case Study 1*
