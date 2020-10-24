@@ -13,7 +13,7 @@ The data analysis will include handling missing data, explaining why it was poss
 
 Conclusions will include basic summary statics on the variables, inferences drawn from them or their relationship(s) and any business opportunities that may present themselves.
 
-## Files contained in this [Repository](https://github.com/justinehly/DS6306-Case-Study-1) include:
+## Files contained in this Repository include:
 
 1. README file
 2. [Youtube Presentation]
