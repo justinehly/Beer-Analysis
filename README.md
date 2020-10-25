@@ -34,6 +34,6 @@ Conclusions will include basic summary statics on the variables, inferences draw
 3. [Case Study 1 Budweiser Knit.html](Ehly_Goodwin_Case_Study_1_knit_DS6306_Tu630p.html)
 4. [Case Study 1 Budweiser Deck.pptx](Ehly_Goodwin_Case_Study_1_Final_DS6306_tu630p.pptx)
 5. [Data Files](https://github.com/justinehly/Justin_Ehly_DS6306_Case_Study_1_Budweiser/tree/main/Data%20Files)
-    1. [beers.csv](Data Files/beers.csv)
-    2. [breweries.csv](Data Files/breweries.csv)
-    3. [state-geocodes-v2017.csv](Data Files/state-geocodes-v2017.csv)
+    1. beers.csv
+    2. breweries.csv
+    3. state-geocodes-v2017.csv
