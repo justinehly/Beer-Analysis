@@ -29,7 +29,7 @@ Conclusions will include basic summary statics on the variables, inferences draw
 ## Files contained in this Repository include:
 
 1. README.md
-2. [Youtube Presentation]
+2. [Case Study 1 - Busweiser Beer Analysis on YouTube](https://www.youtube.com/watch?v=_ceMtZXqPQ8&feature=youtu.be)
 2. [Case Study 1 Budweiser.Rmd](Ehly_Goodwin_Case_Study_1_Final_DS6306_Tu630p.rmd)
 3. [Case Study 1 Budweiser Knit.html](Ehly_Goodwin_Case_Study_1_knit_DS6306_Tu630p.html)
 4. [Case Study 1 Budweiser Deck.pptx](Ehly_Goodwin_Case_Study_1_Final_DS6306_tu630p.pptx)
